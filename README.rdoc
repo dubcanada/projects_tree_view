@@ -3,9 +3,11 @@
 Projects Tree View is a Redmine plugin which will turn the projects index view into a tree view. It also
 propagates the tree view to the project show page's subprojects list.
 
-==Author
+==Author(s)
 
-* Chris Peterson
+* cforce (edits)
+* Steven Verbeek (edits)
+* Chris Peterson (original)
 
 ==Changelog
 
@@ -13,19 +15,19 @@ For the complete changelog see the <tt>CHANGELOG</tt>-file in the Projects Tree 
 
 ==Latest stable release
 
-The currently available, latest stable release of the plugin is version <b>0.0.3</b>.
+The currently available, latest stable release of the plugin is version <b>0.0.4</b>.
 
 ==Compatibility
 
-This plugin is compatible with Redmine trunk only!
+This plugin is compatible with Redmine 0.9.4-1.2.1
 
 ==Obtaining 
 
-<i>URL of the GitHub repository: http://github.com/MischaTheEvil/projects_tree_view/tree/master</i>
+<i>URL of the GitHub repository: http://github.com/dubcanada/projects_tree_view/master</i>
 
 The source of this plugin can be "cloned" from the GitHub-repo using:
 
-<tt>$ cd {RAILS_ROOT}/vendor/plugins && git clone git://github.com/MischaTheEvil/projects_tree_view.git</tt>
+<tt>$ cd {RAILS_ROOT}/vendor/plugins && git://github.com/dubcanada/projects_tree_view.git</tt>
 
 ==Installation
 
